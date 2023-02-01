@@ -1,0 +1,30 @@
+Pin Outs:
+
+RGB LED 1:
+Red = 13
+Blue = 12
+Green = 11
+
+RGB LED 2:
+Red = 05
+Blue = 04
+Green = 03
+
+Single LED
+10
+
+Buttons:
+downbuttonPin = 38
+upbuttonPin = 37
+centerbuttonPin = 36
+rightbuttonPin = 35
+leftbuttonPin = 34
+
+Boot Button = 00
+
+
+Screen
+SDA = 06
+SCL = 07
+
+Neopixel x3 - 17
